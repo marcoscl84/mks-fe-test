@@ -1,4 +1,4 @@
-'use client'
+'use client';
 
 import CardComponent from '@/components/card/Card';
 import { ProductsContainerHome } from '@/components/styles/ProductsContainerHome.style';
